@@ -22,7 +22,7 @@ class Solution:
 
     # Better approach uses hashmaps
     # Time complexity : O(n+m) where n = length of string s, m = length of string t
-    def isAnagram1(self, s: str, t: str) -> bool:
+    def isAnagram2(self, s: str, t: str) -> bool:
 
         # Step 1: Check if the lengths of the two strings are different
         # If the lengths differ, they cannot be anagrams

@@ -28,7 +28,7 @@ class Solution:
 
     # Most efficient approach using a hash set since it does not allow duplicates to be stored
     # Time complexity: O(n), as set operations (add and lookup) are O(1) on average
-    def hasDuplicate2(self, nums: List[int]) -> bool:
+    def hasDuplicate3(self, nums: List[int]) -> bool:
         
         # Initialize an empty set to store unique elements
         hash_set  = set()
