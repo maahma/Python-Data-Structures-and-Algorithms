@@ -1,39 +1,43 @@
 class Solution:
-    # brute force approach
-    # time complexity: O(n^2)
+    # Brute-force approach to check for duplicates in a list
+    # Time complexity: O(n^2) due to nested loops
     def hasDuplicate1(self, nums: List[int]) -> bool:
 
+        # Iterate over all pairs of indices in the list
         for i in range(len(nums)):
             for j in range(len(nums)):
+                # Check if elements at indices i and j are the same but indices are different
                 if nums[i] == nums[j] and i != j:
-                    return True
-        return 
+                    return True # Duplicate found
+        return False  # No duplicate found
     
-    # better approach uses a sorted list
-    # compares a number in the list with the number before it
-    # this way it avoids out of index out of range error, and checks for duplicates in O(n logn) time
+    # Optimized approach uses a sorted list
+    # Time complexity: O(n log n) due to the sorting operation
     def hasDuplicate2(self, nums: List[int]) -> bool:
         
-        nums.sort()  # sorts the original list and doesn't assign it to a new variable, saving space
+        # Sort the list in-place
+        nums.sort()  
 
-        for i in range(1, len(nums)):  # starts from index 1
-            if nums[i] == nums[i-1]:
+        # Compare each element with its previous element
+        for i in range(1, len(nums)):  # Start from index 1 to avoid out-of-range errors
+            if nums[i] == nums[i-1]:   # If consecutive elements are the same, a duplicate exists
                 return True
-        return False
+        return False                    # No duplicates found
     
 
 
-    # the best approach uses a hash list
-    # a hash set does not allow duplicates 
-    # the function iterates over the numbers in the list and checks if the set contains the number
-    # if the number exists in the set, the function returns true, otherwise it returns false
-    # time complexity is O(n)
+    # Most efficient approach using a hash set since it does not allow duplicates to be stored
+    # Time complexity: O(n), as set operations (add and lookup) are O(1) on average
     def hasDuplicate2(self, nums: List[int]) -> bool:
         
-        hash_list = set()  # makes a hashlist
+        # Initialize an empty set to store unique elements
+        hash_set  = set()
 
+        # Iterate through the list
         for num in nums: 
-            if num in hash_list:
-                return True
-            hash_list.add(num)
+            # Check if the current number is already in the set
+            if num in hash_set:
+                return True      # Duplicate found
+            hash_set.add(num)    # Add the number to the set if it doesn't already exist in the set
+        
         return False
