@@ -1,7 +1,7 @@
 # Python DS&A
-This is my plan to practice data structures and algorithms using Python  
+This is my study plan to practice data structures and algorithms using Python for coding interviews
 
-<b>Note: I used the following resources to form my study plan:<b>
+I used the following resources to form my study plan:
 - [Coding Interview Univeristy by John Washam](https://github.com/jwasham/coding-interview-university)
 - [Study Plan for the week by Ramiro Richmand](https://github.com/ramirorichmand/RR10_MyStudyPlan/tree/main)
 - [NeetCode 150](https://neetcode.io/practice?tab=neetcode150)
@@ -17,13 +17,13 @@ This is my plan to practice data structures and algorithms using Python
 
 ## 🍓 Learning Materials
 ### Week 1
-- #### Arrays
+- ### Arrays
     - [ ] About Arrays:
-    	- [Arrays CS50 Harvard University](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3009s)
-        - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
-        - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
-        - [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
-        - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
+      - [Arrays CS50 Harvard University](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3009s)
+      - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
+      - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
+      - [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
+      - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
     - [ ] Implement a vector (mutable array with automatic resizing):
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [ ] New raw data array with allocated memory
@@ -50,7 +50,7 @@ This is my plan to practice data structures and algorithms using Python
         - contiguous in memory, so proximity helps performance
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
-- #### Linked Lists
+- ### Linked Lists
     - [ ] Description:
     	- [ ] [Linked Lists CS50 Harvard University](https://www.youtube.com/watch?v=2T-A_GFuoTo&t=650s) - this builds the intuition.
         - [ ] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
@@ -86,7 +86,7 @@ This is my plan to practice data structures and algorithms using Python
         - [Description (video)](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
         - No need to implement
 
-- #### Stack
+- ### Stack
     - [ ] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
 
 ### Week 2
