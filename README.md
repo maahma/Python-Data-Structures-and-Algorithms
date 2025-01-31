@@ -12,9 +12,7 @@ Practice data structures and algorithms using Python.
   - **[Week 2](#week-2)<br>**
   - **[Week 3](#week-3)<br>**
 - **[Practice Questions](#practice-questions)<br>**
-  - **[Week 1](#week-1)<br>**
-  - **[Week 2](#week-2)<br>**
-  - **[Week 3](#week-3)<br>**
+  - **[Week 1 List](#week-1-list)<br>**
 
 
 ## Learning Materials 
@@ -104,7 +102,7 @@ Practice data structures and algorithms using Python.
 #### Tries
 
 ## Practice Questions
-### Week 1
+### Week 1 List
 | #  | Problem Name | Difficulty | Estimated Time | Topic | Status |
 |----|------------- | ---------- | -------------- | ----- | ------ |
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Array | ❌ |
