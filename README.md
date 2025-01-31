@@ -1,5 +1,5 @@
 # Python DS&A
-Practice data structures and algorithms using Python. 
+This is my plan to practice data structures and algorithms using Python  
 
 <b>Note: I used the following resources to form my study plan:<b>
 - [Coding Interview Univeristy by John Washam](https://github.com/jwasham/coding-interview-university)
@@ -15,7 +15,7 @@ Practice data structures and algorithms using Python.
   - **[Week 1 List](#week-1-list)<br>**
 
 
-## Learning Materials 
+## 🍓 Learning Materials
 ### Week 1
 - #### Arrays
     - [ ] About Arrays:
@@ -101,9 +101,9 @@ Practice data structures and algorithms using Python.
 #### Heap
 #### Tries
 
-## Practice Questions
+## ✨ Practice Questions ✨
 ### Week 1 List
-| #  | Problem Name | Difficulty | Estimated Time | Topic | Status |
+| #  | Problem | Difficulty | Time to Solve | Topic | Status |
 |----|------------- | ---------- | -------------- | ----- | ------ |
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Array | ❌ |
 | 2  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Stack | ❌ |
