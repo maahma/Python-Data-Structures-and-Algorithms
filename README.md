@@ -31,7 +31,7 @@ I used the following resources to form my study plan:
 I studied the learning materials on the weekend to prepare for solving problems during the weekdays
 ### Week 1
 - ### Arrays
-    - [ ] About Arrays:
+    - [x] About Arrays:
       - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
       - [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
     - [ ] Implement a vector (mutable array with automatic resizing):
@@ -61,7 +61,7 @@ I studied the learning materials on the weekend to prepare for solving problems 
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
 - ### Linked Lists
-    - [ ] Description:
+    - [x] Description:
         - [ ] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
         - [ ] [Doubly-linked List](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
     - [ ] Linked List vs Arrays:
@@ -96,6 +96,7 @@ I studied the learning materials on the weekend to prepare for solving problems 
     - [ ] [Another Two Pointers video](https://www.youtube.com/watch?v=-gjxg6Pln50)
 
 <!--- ### Week 2
+#### take resources from coding university and add here ------------------------------------
 #### Binary Search
 #### Sliding Window
 #### Recursion
