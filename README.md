@@ -4,8 +4,9 @@ This is my study plan to practice data structures and algorithms using Python fo
 I used the following resources to form my study plan:
 - [Coding Interview Univeristy by John Washam](https://github.com/jwasham/coding-interview-university)
 - [Study Plan for the week by Ramiro Richmand](https://github.com/ramirorichmand/RR10_MyStudyPlan/tree/main)
-- [NeetCode 150](https://neetcode.io/practice?tab=neetcode150)
-- Book: [Elements of Programming Interviews in Python by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash](https://elementsofprogramminginterviews.com/sample/epilight_python_new.pdf)
+- [NeetCode 150 Practice Questions](https://neetcode.io/practice?tab=neetcode150)
+- [NeetCode 150 Roadmap](https://neetcode.io/roadmap)
+- [Elements of Programming Interviews in Python by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash](https://elementsofprogramminginterviews.com/sample/epilight_python_new.pdf)
 
 ### Table of Contents
 - **[🐝 Study Progress](#-study-progress)<br>**
