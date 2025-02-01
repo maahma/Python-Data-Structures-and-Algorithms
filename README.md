@@ -86,8 +86,9 @@ I study the learning materials on the weekend to prepare for solving problems du
         - [ ] remove_value(value) - removes the first item in the list with this value
 
 - ### Stack
-    - [ ] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
-    - [ ] [Another video](https://www.youtube.com/watch?v=stD5O9YnM04&list=PLUITAQK78D8MpbhXccWtEoDbGpv77P8XX&index=4)
+    - [x] [Stacks (video)](https://www.youtube.com/watch?v=stD5O9YnM04&list=PLUITAQK78D8MpbhXccWtEoDbGpv77P8XX&index=4)
+    - [x] [Monotonic Stack (video)](https://www.youtube.com/watch?v=Dq_ObZwTY_Q&t=193s&pp=ygUWbW9ub3RvbmljIHN0YWNrIHB5dGhvbg%3D%3D)
+    - [ ] [Monotonic Stack implementation](https://www.youtube.com/watch?v=cTBiBSnjO3c&pp=ygUWbW9ub3RvbmljIHN0YWNrIHB5dGhvbg%3D%3D)
 
 - ### Hashing
     - [x] [Hasmaps (video)](https://www.youtube.com/watch?v=RcZsTI5h0kg)
