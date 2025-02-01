@@ -7,12 +7,12 @@ I used the following resources to form my study plan:
 - [NeetCode 150](https://neetcode.io/practice?tab=neetcode150)
 
 ### Table of Contents
-- **[Study Progress](#study-progress)<br>**
-- **[Learning Materials](#learning-materials)<br>**
+- **[🐝 Study Progress](#-study-progress)<br>**
+- **[🍓 Learning Materials](#-learning-materials)<br>**
   - **[Week 1](#week-1)<br>**
   <!-- - **[Week 2](#week-2)<br>**
   - **[Week 3](#week-3)<br>** -->
-- **[✨ Practice Questions ✨](#practice-questions)<br>**
+- **[✨ Practice Questions ✨](#-practice-questions-)<br>**
   - **[Week 1 List](#week-1-list)<br>**
 
 
