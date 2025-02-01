@@ -63,7 +63,7 @@ I study the learning materials on the weekend to prepare for solving problems du
 
 - ### Linked Lists
     - [x] Description:
-        - [ ] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
+        - [x] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
         - [ ] [Doubly-linked List](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
     - [ ] Linked List vs Arrays:
         - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-linked-lists-vs-arrays-rjBs9)
@@ -87,9 +87,10 @@ I study the learning materials on the weekend to prepare for solving problems du
 
 - ### Stack
     - [ ] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
+    - [ ] [Another video](https://www.youtube.com/watch?v=stD5O9YnM04&list=PLUITAQK78D8MpbhXccWtEoDbGpv77P8XX&index=4)
 
 - ### Hashing
-    - [ ] [Hasmaps (video)](https://www.youtube.com/watch?v=RcZsTI5h0kg)
+    - [x] [Hasmaps (video)](https://www.youtube.com/watch?v=RcZsTI5h0kg)
     - [ ] [Hash Functions, Sets and Maps(video)](https://www.youtube.com/watch?v=iZyxNEBpqFY)
 
 - ### Two Pointers
