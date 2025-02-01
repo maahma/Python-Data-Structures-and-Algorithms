@@ -7,12 +7,22 @@ I used the following resources to form my study plan:
 - [NeetCode 150](https://neetcode.io/practice?tab=neetcode150)
 
 ### Table of Contents
-- **[Learning Materials](#learning-materials)<br>**
+- **[🐝 Study Progress](#study-progress)<br>**
+- **[🍓 Learning Materials](#learning-materials)<br>**
   - **[Week 1](#week-1)<br>**
-  - **[Week 2](#week-2)<br>**
-  - **[Week 3](#week-3)<br>**
-- **[Practice Questions](#practice-questions)<br>**
+  <!-- - **[Week 2](#week-2)<br>**
+  - **[Week 3](#week-3)<br>** -->
+- **[✨ Practice Questions ✨](#practice-questions)<br>**
   - **[Week 1 List](#week-1-list)<br>**
+
+
+## 🐝 Study Progress
+| Week | Dates | Leetcode Solved (Easy/Med/Hard) | Topics Covered | Mock Interviews | Notes | Hours spent | 
+| ---- | ----- | ------------------------------- | -------------- | --------------- | ----- | ----------- |
+| 1    | 03/02/25 - 09/02/25 | - | - | - | - | - |
+| 2    | 10/02/25 - 16/02/25 | - | - | - | - | - |
+| 3    | 17/02/25 - 23/02/25 | - | - | - | - | - |
+| 4    | 24/02/25 - 02/03/25 | - | - | - | - | - |
 
 
 ## 🍓 Learning Materials
@@ -89,7 +99,7 @@ I used the following resources to form my study plan:
 - ### Stack
     - [ ] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
 
-### Week 2
+<!--- ### Week 2
 #### Binary Search
 #### Hash Table
 #### Recursion
@@ -99,7 +109,7 @@ I used the following resources to form my study plan:
 #### Dynamic Programming
 #### Graph
 #### Heap
-#### Tries
+#### Tries --->
 
 ## ✨ Practice Questions ✨
 ### Week 1 List
