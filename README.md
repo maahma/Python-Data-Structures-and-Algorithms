@@ -5,6 +5,7 @@ I used the following resources to form my study plan:
 - [Coding Interview Univeristy by John Washam](https://github.com/jwasham/coding-interview-university)
 - [Study Plan for the week by Ramiro Richmand](https://github.com/ramirorichmand/RR10_MyStudyPlan/tree/main)
 - [NeetCode 150](https://neetcode.io/practice?tab=neetcode150)
+- Book: [Elements of Programming Interviews in Python by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash](https://elementsofprogramminginterviews.com/sample/epilight_python_new.pdf)
 
 ### Table of Contents
 - **[🐝 Study Progress](#-study-progress)<br>**
@@ -26,14 +27,12 @@ I used the following resources to form my study plan:
 
 
 ## 🍓 Learning Materials
+- I studied the learning materials on the weekend to prepare for solving problems during the weekdays
 ### Week 1
 - ### Arrays
     - [ ] About Arrays:
-      - [Arrays CS50 Harvard University](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3009s)
       - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
-      - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
       - [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
-      - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
     - [ ] Implement a vector (mutable array with automatic resizing):
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [ ] New raw data array with allocated memory
@@ -62,21 +61,12 @@ I used the following resources to form my study plan:
 
 - ### Linked Lists
     - [ ] Description:
-    	- [ ] [Linked Lists CS50 Harvard University](https://www.youtube.com/watch?v=2T-A_GFuoTo&t=650s) - this builds the intuition.
         - [ ] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
-        - [ ] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
-        - [ ] [CS 61B - Linked Lists 2 (video)](https://archive.org/details/ucberkeley_webcast_-c4I3gFYe3w)
-        - [ ] [[Review] Linked lists in 4 minutes (video)](https://youtu.be/F8AbOfQwl1c)
-    - [ ] [C Code (video)](https://www.youtube.com/watch?v=QN6FPiD0Gzo)
-            - not the whole video, just portions about Node struct and memory allocation
+        - [ ] [Doubly-linked List](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
     - [ ] Linked List vs Arrays:
         - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-linked-lists-vs-arrays-rjBs9)
         - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/in-the-real-world-lists-vs-arrays-QUaUd)
     - [ ] [Why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
-    - [ ] Gotcha: you need pointer to pointer knowledge:
-        (for when you pass a pointer to a function that may change the address where that pointer points)
-        This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
-        - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
     - [ ] Implement (I did with tail pointer & without):
         - [ ] size() - returns the number of data elements in the list
         - [ ] empty() - bool returns true if empty
@@ -92,16 +82,21 @@ I used the following resources to form my study plan:
         - [ ] value_n_from_end(n) - returns the value of the node at the nth position from the end of the list
         - [ ] reverse() - reverses the list
         - [ ] remove_value(value) - removes the first item in the list with this value
-    - [ ] Doubly-linked List
-        - [Description (video)](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
-        - No need to implement
 
 - ### Stack
     - [ ] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
 
+- ### Hashing
+    - [ ] [Hasmaps (video)](https://www.youtube.com/watch?v=RcZsTI5h0kg)
+    - [ ] [Hash Functions, Sets and Maps(video)](https://www.youtube.com/watch?v=iZyxNEBpqFY)
+
+- ### Two Pointers
+    - [ ] [Two Pointers (video)](https://www.youtube.com/watch?v=syTs9_w-pwA)
+    - [ ] [Another Two Pointers video](https://www.youtube.com/watch?v=-gjxg6Pln50)
+
 <!--- ### Week 2
 #### Binary Search
-#### Hash Table
+#### Sliding Window
 #### Recursion
 #### Binary Tree
 
@@ -109,7 +104,13 @@ I used the following resources to form my study plan:
 #### Dynamic Programming
 #### Graph
 #### Heap
-#### Tries --->
+#### Tries 
+
+### Week 4
+#### Intervals
+#### Greedy Algorithms
+#### Bit Manipulation
+#### Advanced Graphs--->
 
 ## ✨ Practice Questions ✨
 ### Week 1 List
