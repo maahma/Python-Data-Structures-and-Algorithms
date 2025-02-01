@@ -28,7 +28,7 @@ I used the following resources to form my study plan:
 
 
 ## 🍓 Learning Materials
-- I studied the learning materials on the weekend to prepare for solving problems during the weekdays
+I studied the learning materials on the weekend to prepare for solving problems during the weekdays
 ### Week 1
 - ### Arrays
     - [ ] About Arrays:
