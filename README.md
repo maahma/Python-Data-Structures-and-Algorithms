@@ -2,7 +2,7 @@
 This is my study plan to practice data structures and algorithms using Python for coding interviews
 
 ### Table of Contents
-- **[🦋 Study Resources](#-study-resources)<br>**
+- **[🦋 Resources](#-resources)<br>**
 - **[🐝 Study Progress](#-study-progress)<br>**
 - **[🍓 Learning Materials](#-learning-materials)<br>**
   - **[Week 1](#week-1)<br>**
@@ -11,7 +11,7 @@ This is my study plan to practice data structures and algorithms using Python fo
 - **[✨ Practice Questions ✨](#-practice-questions-)<br>**
   - **[Week 1 List](#week-1-list)<br>**
 
-### 🦋 Resources
+## 🦋 Resources
 I used the following resources to form my study plan:
 - [Coding Interview Univeristy by John Washam](https://github.com/jwasham/coding-interview-university)
 - [Study Plan for the week by Ramiro Richmand](https://github.com/ramirorichmand/RR10_MyStudyPlan/tree/main)
