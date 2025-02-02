@@ -35,7 +35,7 @@
 
 ### Valid Parentheses 
 - The brute-force approach involves running nested loops to compare each opening bracket with other brackets in the list to find a matching closing bracket, resulting in a time complexity of $O(n^2)$
-- The optimal solution has a time complexity of $O(n)$ and involves:
+- The [optimal solution](https://youtu.be/WTzjTskDFMg) has a time complexity of $O(n)$ and involves:
     - Checking if the string length is even to ensure complete bracket pairs
     - Using a stack and a hashmap to track open and close brackets
     - Creating a hashmap where closing brackets are keys and their corresponding opening brackets are values
