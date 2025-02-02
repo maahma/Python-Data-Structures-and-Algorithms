@@ -18,6 +18,9 @@ I used the following resources to form my study plan:
 - [NeetCode 150 Practice Questions](https://neetcode.io/practice?tab=neetcode150)
 - [NeetCode 150 Roadmap](https://neetcode.io/roadmap)
 - [Elements of Programming Interviews in Python by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash](https://elementsofprogramminginterviews.com)
+- [Articles to understand algorithms](https://www.hellointerview.com/learn/code)
+- [Articles on Leetcode Patterns](https://medium.com/leetcode-patterns)
+- [14 Leetcode Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 
 ## 🐝 Study Progress
 | Week | Dates | Leetcode Solved (Easy/Med/Hard) | Topics Covered | Mock Interviews | Notes | Hours spent | 
@@ -66,6 +69,7 @@ I study the learning materials on the weekend to prepare for solving problems du
 #### take resources from coding university and add here ------------------------------------
 #### Binary Search
 #### Sliding Window
+  - [Article on differetn types of Sliding Window techniques](https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide)
 #### Recursion
 #### Binary Tree
 
