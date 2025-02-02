@@ -120,12 +120,13 @@ I study the learning materials on the weekend to prepare for solving problems du
 | 25 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 25 mins | String | ❌ |
 | 26 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 45 mins | Linked List | ❌ |
 | 27 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 25 mins | Stack | ❌ |
-| 28 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | 45 mins | String | ❌ |
-| 29 | [Merge K sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | 45 mins | Linked List | ❌ |
-| 30 | [Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | 45 mins | Linked List | ❌ |
-| 31 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | 45 mins | Stack | ❌ |
-| 32 | [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | 45 mins | Stack | ❌ |
-| 33 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | 45 mins | Array | ❌ |
+| 28 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 25 mins | Arrays, Hashmaps | ❌ |
+| 29 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | 45 mins | String | ❌ |
+| 30 | [Merge K sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | 45 mins | Linked List | ❌ |
+| 31 | [Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | 45 mins | Linked List | ❌ |
+| 32 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | 45 mins | Stack | ❌ |
+| 33 | [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | 45 mins | Stack | ❌ |
+| 34 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | 45 mins | Array | ❌ |
 
 
 #### Total for Week 1
