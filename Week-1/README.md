@@ -1,6 +1,7 @@
 # Notes from Week 1
 ### Table of Contents
 - **[Two Sum](#two-sum)<br>**
+- **[Valid Parentheses](#valid-parentheses)<br>**
 
 ### Two Sum
 - The brute-force approach iterates through the list, checking all pairs to find the target sum, resulting in a time complexity of $O(n^2)$
@@ -31,3 +32,15 @@
 - Draw the solution to visualize it better
 
 - If a list is already sorted, think about Binary Search or Two Pointers
+
+### Valid Parentheses 
+- The brute-force approach involves running nested loops to compare each opening bracket with other brackets in the list to find a matching closing bracket, resulting in a time complexity of $O(n^2)$
+- The optimal solution has a time complexity of $O(n)$ and involves:
+    - Checking if the string length is even to ensure complete bracket pairs
+    - Using a stack and a hashmap to track open and close brackets
+    - Creating a hashmap where closing brackets are keys and their corresponding opening brackets are values
+    - Iterating through the string and checking each bracket:
+        - If the bracket is not in the hashmap (i.e., it’s an opening bracket), push it onto the stack
+        - If the bracket is in the hashmap (i.e., it’s a closing bracket), check the top of the stack:
+            - If the top of the stack matches the expected opening bracket, pop it from the stack, indicating a valid pair
+    - Finally, check if the stack is empty—if it is, all brackets are matched, so return True; otherwise, return False
