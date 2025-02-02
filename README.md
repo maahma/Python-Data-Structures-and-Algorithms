@@ -22,6 +22,9 @@ I used the following resources to form my study plan:
 - [Articles on Leetcode Patterns](https://medium.com/leetcode-patterns)
 - [14 Leetcode Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 
+Some good articles on how to leetcode:
+- [For those who are beginners - Leetcode prep in 2 months](https://www.teamblind.com/post/for-those-who-are-beginners---leetcode-prep-in-2-months-V2nXT0Az?utm_source=share&utm_medium=normal&from=share_link)
+
 ## 🐝 Study Progress
 | Week | Dates | Leetcode Solved (Easy/Med/Hard) | Topics Covered | Mock Interviews | Notes | Hours spent | 
 | ---- | ----- | ------------------------------- | -------------- | --------------- | ----- | ----------- |
@@ -43,6 +46,7 @@ I study the learning materials on the weekend to prepare for solving problems du
     - [x] Description:
         - [x] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
         - [ ] [Doubly-linked List](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
+        - [ ] [Article on implementing Linked Lists](https://medium.com/pythoneers/mastering-linked-lists-for-interview-preparations-885e9d09fc88)
     - [ ] Linked List vs Arrays:
         - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-linked-lists-vs-arrays-rjBs9)
         - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/in-the-real-world-lists-vs-arrays-QUaUd)
