@@ -35,10 +35,9 @@ I used the following resources to form my study plan:
 I study the learning materials on the weekend to prepare for solving problems during the weekdays
 ### Week 1
 - ### Arrays
-    - [x] About Arrays:
-      - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
-      - [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
-      - [Arrays chapter for understanding solutions](https://www.google.co.uk/books/edition/_/eErBDwAAQBAJ?hl=en&gbpv=1)
+    - [x] [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
+    - [x] [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
+    - [ ] [Arrays chapter for understanding solutions](https://www.google.co.uk/books/edition/_/eErBDwAAQBAJ?hl=en&gbpv=1)
     
 - ### Linked Lists
     - [x] Description:
