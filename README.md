@@ -62,9 +62,9 @@ I study the learning materials on the weekend to prepare for solving problems du
     - [ ] [Hash Functions, Sets and Maps(video)](https://www.youtube.com/watch?v=iZyxNEBpqFY)
 
 - ### Two Pointers
-    - [ ] [Two Pointers (video)](https://www.youtube.com/watch?v=syTs9_w-pwA)
+    - [x] [Two Pointers (video)](https://www.youtube.com/watch?v=syTs9_w-pwA)
     - [ ] [Another Two Pointers video](https://www.youtube.com/watch?v=-gjxg6Pln50)
-    - [ ] [Visual explantion of Two Pointers](https://www.youtube.com/watch?v=On03HWe2tZM)
+    - [x] [Visual explantion of Two Pointers](https://www.youtube.com/watch?v=On03HWe2tZM)
  
 - ### Strings
     - [ ] [Strings(video)](https://www.youtube.com/watch?v=7gWFRA0V0OE&list=PLUITAQK78D8PByrC3XDuF-elzSK7QWXO5&index=7)
@@ -93,7 +93,7 @@ I study the learning materials on the weekend to prepare for solving problems du
 ### Week 1 List
 | #  | Problem | Difficulty | Time to Solve | Topic | Status |
 |----|------------- | ---------- | -------------- | ----- | ------ |
-| 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Array | ❌ |
+| 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Array | ✔ |
 | 2  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Stack | ❌ |
 | 3  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Linked List | ❌ |
 | 4  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Array | ❌ |
