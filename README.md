@@ -35,6 +35,7 @@ I study the learning materials on the weekend to prepare for solving problems du
     - [x] About Arrays:
       - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
       - [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
+      - [Arrays chapter for understanding solutions](https://www.google.co.uk/books/edition/_/eErBDwAAQBAJ?hl=en&gbpv=1)
     
 - ### Linked Lists
     - [x] Description:
@@ -57,6 +58,9 @@ I study the learning materials on the weekend to prepare for solving problems du
 - ### Two Pointers
     - [ ] [Two Pointers (video)](https://www.youtube.com/watch?v=syTs9_w-pwA)
     - [ ] [Another Two Pointers video](https://www.youtube.com/watch?v=-gjxg6Pln50)
+ 
+- ### Strings
+    - [ ] [Strings(video)](https://www.youtube.com/watch?v=7gWFRA0V0OE&list=PLUITAQK78D8PByrC3XDuF-elzSK7QWXO5&index=7)
 
 <!--- ### Week 2
 #### take resources from coding university and add here ------------------------------------
