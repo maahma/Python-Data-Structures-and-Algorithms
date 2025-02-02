@@ -1,97 +1,78 @@
 # Python DS&A
 This is my study plan to practice data structures and algorithms using Python for coding interviews
 
+### Table of Contents
+- **[🦋 Resources](#-resources)<br>**
+- **[🐝 Study Progress](#-study-progress)<br>**
+- **[🍓 Learning Materials](#-learning-materials)<br>**
+  - **[Week 1](#week-1)<br>**
+  <!-- - **[Week 2](#week-2)<br>**
+  - **[Week 3](#week-3)<br>** -->
+- **[✨ Practice Questions ✨](#-practice-questions-)<br>**
+  - **[Week 1 List](#week-1-list)<br>**
+
+## 🦋 Resources
 I used the following resources to form my study plan:
 - [Coding Interview Univeristy by John Washam](https://github.com/jwasham/coding-interview-university)
 - [Study Plan for the week by Ramiro Richmand](https://github.com/ramirorichmand/RR10_MyStudyPlan/tree/main)
-- [NeetCode 150](https://neetcode.io/practice?tab=neetcode150)
+- [NeetCode 150 Practice Questions](https://neetcode.io/practice?tab=neetcode150)
+- [NeetCode 150 Roadmap](https://neetcode.io/roadmap)
+- [Elements of Programming Interviews in Python by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash](https://elementsofprogramminginterviews.com)
+- [Articles to understand algorithms](https://www.hellointerview.com/learn/code)
+- [Articles on Leetcode Patterns](https://medium.com/leetcode-patterns)
+- [14 Leetcode Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 
-### Table of Contents
-- **[Learning Materials](#learning-materials)<br>**
-  - **[Week 1](#week-1)<br>**
-  - **[Week 2](#week-2)<br>**
-  - **[Week 3](#week-3)<br>**
-- **[Practice Questions](#practice-questions)<br>**
-  - **[Week 1 List](#week-1-list)<br>**
+Some good articles on how to leetcode:
+- [For those who are beginners - Leetcode prep in 2 months](https://www.teamblind.com/post/for-those-who-are-beginners---leetcode-prep-in-2-months-V2nXT0Az?utm_source=share&utm_medium=normal&from=share_link)
+
+## 🐝 Study Progress
+| Week | Dates | Leetcode Solved (Easy/Med/Hard) | Topics Covered | Mock Interviews | Notes | Hours spent | 
+| ---- | ----- | ------------------------------- | -------------- | --------------- | ----- | ----------- |
+| 1    | 03/02/25 - 09/02/25 | - | - | - | - | - |
+| 2    | 10/02/25 - 16/02/25 | - | - | - | - | - |
+| 3    | 17/02/25 - 23/02/25 | - | - | - | - | - |
+| 4    | 24/02/25 - 02/03/25 | - | - | - | - | - |
 
 
 ## 🍓 Learning Materials
+I study the learning materials on the weekend to prepare for solving problems during the weekdays
 ### Week 1
 - ### Arrays
-    - [ ] About Arrays:
-      - [Arrays CS50 Harvard University](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3009s)
-      - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
-      - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
-      - [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
-      - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
-    - [ ] Implement a vector (mutable array with automatic resizing):
-        - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
-        - [ ] New raw data array with allocated memory
-            - can allocate int array under the hood, just not use its features
-            - start with 16, or if the starting number is greater, use power of 2 - 16, 32, 64, 128
-        - [ ] size() - number of items
-        - [ ] capacity() - number of items it can hold
-        - [ ] is_empty()
-        - [ ] at(index) - returns the item at a given index, blows up if index out of bounds
-        - [ ] push(item)
-        - [ ] insert(index, item) - inserts item at index, shifts that index's value and trailing elements to the right
-        - [ ] prepend(item) - can use insert above at index 0
-        - [ ] pop() - remove from end, return value
-        - [ ] delete(index) - delete item at index, shifting all trailing elements left
-        - [ ] remove(item) - looks for value and removes index holding it (even if in multiple places)
-        - [ ] find(item) - looks for value and returns first index with that value, -1 if not found
-        - [ ] resize(new_capacity) // private function
-            - when you reach capacity, resize to double the size
-            - when popping an item, if the size is 1/4 of capacity, resize to half
-    - [ ] Time
-        - O(1) to add/remove at end (amortized for allocations for more space), index, or update
-        - O(n) to insert/remove elsewhere
-    - [ ] Space
-        - contiguous in memory, so proximity helps performance
-        - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
-
+    - [x] [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
+    - [x] [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
+    - [ ] [Arrays chapter for understanding solutions](https://www.google.co.uk/books/edition/_/eErBDwAAQBAJ?hl=en&gbpv=1)
+    
 - ### Linked Lists
-    - [ ] Description:
-    	- [ ] [Linked Lists CS50 Harvard University](https://www.youtube.com/watch?v=2T-A_GFuoTo&t=650s) - this builds the intuition.
-        - [ ] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
-        - [ ] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
-        - [ ] [CS 61B - Linked Lists 2 (video)](https://archive.org/details/ucberkeley_webcast_-c4I3gFYe3w)
-        - [ ] [[Review] Linked lists in 4 minutes (video)](https://youtu.be/F8AbOfQwl1c)
-    - [ ] [C Code (video)](https://www.youtube.com/watch?v=QN6FPiD0Gzo)
-            - not the whole video, just portions about Node struct and memory allocation
+    - [x] Description:
+        - [x] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
+        - [ ] [Doubly-linked List](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
+        - [ ] [Article on implementing Linked Lists](https://medium.com/pythoneers/mastering-linked-lists-for-interview-preparations-885e9d09fc88)
     - [ ] Linked List vs Arrays:
         - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-linked-lists-vs-arrays-rjBs9)
         - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/in-the-real-world-lists-vs-arrays-QUaUd)
     - [ ] [Why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
-    - [ ] Gotcha: you need pointer to pointer knowledge:
-        (for when you pass a pointer to a function that may change the address where that pointer points)
-        This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
-        - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
-    - [ ] Implement (I did with tail pointer & without):
-        - [ ] size() - returns the number of data elements in the list
-        - [ ] empty() - bool returns true if empty
-        - [ ] value_at(index) - returns the value of the nth item (starting at 0 for first)
-        - [ ] push_front(value) - adds an item to the front of the list
-        - [ ] pop_front() - remove the front item and return its value
-        - [ ] push_back(value) - adds an item at the end
-        - [ ] pop_back() - removes end item and returns its value
-        - [ ] front() - get the value of the front item
-        - [ ] back() - get the value of the end item
-        - [ ] insert(index, value) - insert value at index, so the current item at that index is pointed to by the new item at the index
-        - [ ] erase(index) - removes node at given index
-        - [ ] value_n_from_end(n) - returns the value of the node at the nth position from the end of the list
-        - [ ] reverse() - reverses the list
-        - [ ] remove_value(value) - removes the first item in the list with this value
-    - [ ] Doubly-linked List
-        - [Description (video)](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
-        - No need to implement
-
+    
 - ### Stack
-    - [ ] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
+    - [x] [Stacks (video)](https://www.youtube.com/watch?v=stD5O9YnM04&list=PLUITAQK78D8MpbhXccWtEoDbGpv77P8XX&index=4)
+    - [x] [Monotonic Stack (video)](https://www.youtube.com/watch?v=Dq_ObZwTY_Q&t=193s&pp=ygUWbW9ub3RvbmljIHN0YWNrIHB5dGhvbg%3D%3D)
+    - [ ] [Monotonic Stack implementation](https://www.youtube.com/watch?v=cTBiBSnjO3c&pp=ygUWbW9ub3RvbmljIHN0YWNrIHB5dGhvbg%3D%3D)
 
-### Week 2
+- ### Hashing
+    - [x] [Hasmaps (video)](https://www.youtube.com/watch?v=RcZsTI5h0kg)
+    - [ ] [Hash Functions, Sets and Maps(video)](https://www.youtube.com/watch?v=iZyxNEBpqFY)
+
+- ### Two Pointers
+    - [ ] [Two Pointers (video)](https://www.youtube.com/watch?v=syTs9_w-pwA)
+    - [ ] [Another Two Pointers video](https://www.youtube.com/watch?v=-gjxg6Pln50)
+ 
+- ### Strings
+    - [ ] [Strings(video)](https://www.youtube.com/watch?v=7gWFRA0V0OE&list=PLUITAQK78D8PByrC3XDuF-elzSK7QWXO5&index=7)
+
+<!--- ### Week 2
+#### take resources from coding university and add here ------------------------------------
 #### Binary Search
-#### Hash Table
+#### Sliding Window
+  - [Article on differetn types of Sliding Window techniques](https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide)
 #### Recursion
 #### Binary Tree
 
@@ -99,7 +80,13 @@ I used the following resources to form my study plan:
 #### Dynamic Programming
 #### Graph
 #### Heap
-#### Tries
+#### Tries 
+
+### Week 4
+#### Intervals
+#### Greedy Algorithms
+#### Bit Manipulation
+#### Advanced Graphs--->
 
 ## ✨ Practice Questions ✨
 ### Week 1 List
