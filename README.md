@@ -64,6 +64,7 @@ I study the learning materials on the weekend to prepare for solving problems du
 - ### Two Pointers
     - [ ] [Two Pointers (video)](https://www.youtube.com/watch?v=syTs9_w-pwA)
     - [ ] [Another Two Pointers video](https://www.youtube.com/watch?v=-gjxg6Pln50)
+    - [ ] [Visual explantion of Two Pointers](https://www.youtube.com/watch?v=On03HWe2tZM)
  
 - ### Strings
     - [ ] [Strings(video)](https://www.youtube.com/watch?v=7gWFRA0V0OE&list=PLUITAQK78D8PByrC3XDuF-elzSK7QWXO5&index=7)
