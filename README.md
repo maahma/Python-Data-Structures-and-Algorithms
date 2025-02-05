@@ -30,7 +30,7 @@ Some good articles on how to leetcode:
 ## 🐝 Study Progress
 | Week | Dates | Leetcode Solved (Easy/Med/Hard) | Topics Covered | Mock Interviews | Notes | Hours spent | 
 | ---- | ----- | ------------------------------- | -------------- | --------------- | ----- | ----------- |
-| 1    | 03/02/25 - 09/02/25 | - | - | - | - | - |
+| 1    | 03/02/25 - 09/02/25 | - | - | - | Learning patterns in LeetCode and understanding how to implement data structures and algorithms will make problem-solving easier. Revisit problems you've had trouble with and treat LeetCode like solving math problems—it’s all about practice. Stay consistent, and it’s okay if it takes longer than 4 weeks to go through all the questions  | - |
 | 2    | 10/02/25 - 16/02/25 | - | - | - | - | - |
 | 3    | 17/02/25 - 23/02/25 | - | - | - | - | - |
 | 4    | 24/02/25 - 02/03/25 | - | - | - | - | - |
@@ -52,11 +52,8 @@ Some good articles on how to leetcode:
     - [x] Description:
         - [x] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
         - [ ] [Doubly-linked List](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
-        - [ ] [Article on implementing Linked Lists](https://medium.com/pythoneers/mastering-linked-lists-for-interview-preparations-885e9d09fc88)
-    - [ ] Linked List vs Arrays:
-        - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-linked-lists-vs-arrays-rjBs9)
-        - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/in-the-real-world-lists-vs-arrays-QUaUd)
-    - [ ] [Why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
+        - [x] [Article on implementing Linked Lists](https://medium.com/pythoneers/mastering-linked-lists-for-interview-preparations-885e9d09fc88)
+    - [x] Learn to implement basic operations on a singly linked list
     
 - ### Stack
     - [x] [Stacks (video)](https://www.youtube.com/watch?v=stD5O9YnM04&list=PLUITAQK78D8MpbhXccWtEoDbGpv77P8XX&index=4)
