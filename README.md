@@ -21,6 +21,8 @@ I used the following resources to form my study plan:
 - [Articles to understand algorithms](https://www.hellointerview.com/learn/code)
 - [Articles on Leetcode Patterns](https://medium.com/leetcode-patterns)
 - [14 Leetcode Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [List of questions for each Leetcode pattern](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions?tab=readme-ov-file)
+- [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns)
 
 Some good articles on how to leetcode:
 - [For those who are beginners - Leetcode prep in 2 months](https://www.teamblind.com/post/for-those-who-are-beginners---leetcode-prep-in-2-months-V2nXT0Az?utm_source=share&utm_medium=normal&from=share_link)
@@ -35,7 +37,11 @@ Some good articles on how to leetcode:
 
 
 ## 🍓 Learning Materials
-I study the learning materials on the weekend to prepare for solving problems during the weekdays
+- I study learning materials on weekends to prepare for solving problems during the weekdays.
+- I solve five problems a day and take notes.
+- I revisit problems I struggled with the next day to reinforce my learning.
+- [Advice from the master himself](https://www.youtube.com/watch?v=aHZW7TuY_yo)
+
 ### Week 1
 - ### Arrays
     - [x] [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
@@ -96,7 +102,7 @@ I study the learning materials on the weekend to prepare for solving problems du
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Array | ✔ |
 | 2  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Stack | ✔ |
 | 3  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Linked List | ✔ |
-| 4  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Array | ❌ |
+| 4  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Array | ✔ |
 | 5  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | String | ❌ |
 | 6  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | String | ❌ |
 | 7  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Linked List | ❌ |
@@ -115,10 +121,10 @@ I study the learning materials on the weekend to prepare for solving problems du
 | 20 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 25 mins | Stack | ❌ |
 | 21 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 25 mins | Array | ❌ |
 | 22 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 25 mins | Array | ❌ |
-| 23 | [Reorder List](https://leetcode.com/problems/reorder-list/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 45 mins | Linked List | ❌ |
-| 24 | [Remove Nth Node From End of List ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 45 mins | Linked List | ❌ |
+| 23 | [Reorder List](https://leetcode.com/problems/reorder-list/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 25 mins | Linked List | ❌ |
+| 24 | [Remove Nth Node From End of List ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 25 mins | Linked List | ❌ |
 | 25 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 25 mins | String | ❌ |
-| 26 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 45 mins | Linked List | ❌ |
+| 26 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 25 mins | Linked List | ❌ |
 | 27 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 25 mins | Stack | ❌ |
 | 28 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 25 mins | Arrays, Hashmaps | ❌ |
 | 29 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | 45 mins | String | ❌ |
