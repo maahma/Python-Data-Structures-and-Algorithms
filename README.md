@@ -95,7 +95,7 @@ I study the learning materials on the weekend to prepare for solving problems du
 |----|------------- | ---------- | -------------- | ----- | ------ |
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Array | ✔ |
 | 2  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Stack | ✔ |
-| 3  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Linked List | ❌ |
+| 3  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Linked List | ✔ |
 | 4  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Array | ❌ |
 | 5  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | String | ❌ |
 | 6  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | String | ❌ |
