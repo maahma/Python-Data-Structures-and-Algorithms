@@ -61,7 +61,7 @@ Some good articles on how to leetcode:
 
 - ### Hashing
     - [x] [Hasmaps (video)](https://www.youtube.com/watch?v=RcZsTI5h0kg)
-    - [ ] [Hash Functions, Sets and Maps(video)](https://www.youtube.com/watch?v=iZyxNEBpqFY)
+    - [ ] [Hash Functions, Sets and Maps (video)](https://www.youtube.com/watch?v=iZyxNEBpqFY)
 
 - ### Two Pointers
     - [x] [Two Pointers (video)](https://www.youtube.com/watch?v=syTs9_w-pwA)
@@ -73,7 +73,7 @@ Some good articles on how to leetcode:
 
 - ### Binary Search
 - ### Sliding Window
-    - - [Article on different types of Sliding Window techniques](https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide)
+    - [ ] [Article on different types of Sliding Window techniques](https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide)
 - ### Sorting Algorithms
     - Merge Sort
     - Quick Sort
