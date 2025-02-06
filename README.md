@@ -9,7 +9,7 @@ This is my study plan to practice data structures and algorithms using Python fo
   <!-- - **[Week 2](#week-2)<br>**
   - **[Week 3](#week-3)<br>** -->
 - **[✨ Practice Questions ✨](#-practice-questions-)<br>**
-  - **[Week 1 List](#week-1-list)<br>**
+  - **[For Week 1 Data Structures and Algorithms](#for-week-1-data-structures-and-algorithms)<br>**
 
 ## 🦋 Resources
 I used the following resources to form my study plan:
@@ -30,11 +30,10 @@ Some good articles on how to leetcode:
 ## 🐝 Study Progress
 | Week | Dates | Leetcode Solved (Easy/Med/Hard) | Topics Covered | Mock Interviews | Notes | Hours spent | 
 | ---- | ----- | ------------------------------- | -------------- | --------------- | ----- | ----------- |
-| 1    | 03/02/25 - 09/02/25 | - | - | - | Learning patterns in LeetCode and understanding how to implement data structures and algorithms will make problem-solving easier. Revisit problems you've had trouble with and treat LeetCode like solving math problems—it’s all about practice. Stay consistent, and it’s okay if it takes longer than 4 weeks to go through all the questions  | - |
+| 1    | 03/02/25 - 09/02/25 | Learning how to implement data structures and algorithms from scratch | - | - | Learning patterns in LeetCode and understanding how to implement data structures and algorithms will make problem-solving easier. Revisit problems you've had trouble with and treat LeetCode like solving math problems—it’s all about practice. Stay consistent, and it’s okay if it takes longer than 4 weeks to go through all the questions  | - |
 | 2    | 10/02/25 - 16/02/25 | - | - | - | - | - |
 | 3    | 17/02/25 - 23/02/25 | - | - | - | - | - |
 | 4    | 24/02/25 - 02/03/25 | - | - | - | - | - |
-
 
 ## 🍓 Learning Materials
 - I study learning materials on weekends to prepare for solving problems during the weekdays.
@@ -72,28 +71,43 @@ Some good articles on how to leetcode:
 - ### Strings
     - [ ] [Strings(video)](https://www.youtube.com/watch?v=7gWFRA0V0OE&list=PLUITAQK78D8PByrC3XDuF-elzSK7QWXO5&index=7)
 
+- ### Binary Search
+- ### Sliding Window
+    - - [Article on different types of Sliding Window techniques](https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide)
+- ### Sorting Algorithms
+    - Merge Sort
+    - Quick Sort
+    - Insertion Sort
+    - Bubble Sort
+- ### Recursion
+- ### Kadane's Algorithm (For arrays)
+
 <!--- ### Week 2
 #### take resources from coding university and add here ------------------------------------
-#### Binary Search
-#### Sliding Window
-  - [Article on differetn types of Sliding Window techniques](https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide)
-#### Recursion
-#### Binary Tree
+# Solving more problems related to topics from Week 1
 
-### Week 3
+### Week 3 - learning how to implement the following
+#### Binary Tree
 #### Dynamic Programming
 #### Graph
 #### Heap
 #### Tries 
 
 ### Week 4
+#### solving more problems related to the above and revising old ones too
+
+### Week 5
 #### Intervals
 #### Greedy Algorithms
 #### Bit Manipulation
-#### Advanced Graphs--->
+#### Advanced Graphs
+
+### Week 6
+#### solving more problems related to the above and revising old ones too
+--->
 
 ## ✨ Practice Questions ✨
-### Week 1 List
+### For Week 1 Data Structures and Algorithms
 | #  | Problem | Difficulty | Time to Solve | Topic | Status |
 |----|------------- | ---------- | -------------- | ----- | ------ |
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Array | ✔ |
