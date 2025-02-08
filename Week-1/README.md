@@ -48,7 +48,7 @@
     - Finally, check if the stack is empty—if it is, all brackets are matched, so return True; otherwise, return False
 
 ### Merge Two Sorted Lists
-One way to merge two sorted lists is to create an array, push all values from both lists into it, and then use .sort() to sort the array. After that, a new linked list can be created, and the sorted values can be added back into it. However, this approach has a time complexity of $O((n+m) \log(n+m))$, which is inefficient. You can find an example of this approach [here](https://www.geeksforgeeks.org/merge-two-sorted-linked-lists/#:~:text=O(1)%20Space-,%5BNaive%20Approach%5D%20By%20Using%20Array%20%E2%80%93%20O((n%2Bm)*log(n%2Bm))%20Time%20and%20O(n%2Bm)%20Space,-The%20idea%20is)
+- One way to merge two sorted lists is to create an array, push all values from both lists into it, and then use .sort() to sort the array. After that, a new linked list can be created, and the sorted values can be added back into it. However, this approach has a time complexity of $O((n+m) \log(n+m))$, which is inefficient. You can find an example of this approach [here](https://www.geeksforgeeks.org/merge-two-sorted-linked-lists/#:~:text=O(1)%20Space-,%5BNaive%20Approach%5D%20By%20Using%20Array%20%E2%80%93%20O((n%2Bm)*log(n%2Bm))%20Time%20and%20O(n%2Bm)%20Space,-The%20idea%20is)
 
 - A more optimized approach, explained in detail [here](https://neetcode.io/solutions/merge-two-sorted-lists), runs in $O(n + m)$ time complexity. The key steps are:
     - Create a new linked list with a dummy node and a tail pointer (which keeps track of the last node in the merged list).
