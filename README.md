@@ -47,28 +47,34 @@ I used the following resources to form my study plan:
 | Data Structure | Status | 
 | -------------- | ------ | 
 | [Dynamic Array](https://www.geeksforgeeks.org/implementation-of-dynamic-array-in-python/)  | ✔ | 
-| Linked List    | |
+| [Linked List](https://www.geeksforgeeks.org/singly-linked-list-in-python/)    | |
 | Stack & Queue  | | 
-| Hash Tables    | | 
-| Binary Search Tree | |
-| Binary Heaps & Priority Queue | | 
+| [Hash Tables](https://www.geeksforgeeks.org/implementation-of-hash-table-in-python-using-separate-chaining/)    | | 
+| [Binary Search Tree](https://www.geeksforgeeks.org/binary-search-tree-in-python/) | |
+| [Binary Heaps](https://www.geeksforgeeks.org/binary-heap-in-python/) | |
+| [Priority Queue](https://www.geeksforgeeks.org/priority-queue-in-python/) | | 
 | Graphs         | | 
-| Trie           | | 
+| [Trie](https://wangyy395.medium.com/implement-a-trie-in-python-e8dd5c5fde3a) | | 
 
 | Algorithms | Status | 
 | ---------- | ------ |
 | Bit Manipulation & Numbers — difference btw Unsigned vs signed numbers | |
-| Mergesort  | |
-| Quicksort  | |
-| Heapsort   | |
-| Binary Search | |
+| [Mergesort](https://www.geeksforgeeks.org/python-program-for-merge-sort/)  | |
+| [Quicksort](https://www.geeksforgeeks.org/python-program-for-quicksort/)  | |
+| [Heapsort](https://www.geeksforgeeks.org/python-program-for-heap-sort/)   | |
+| [Binary Search (recursive and iterative](https://www.geeksforgeeks.org/python-program-for-binary-search/) | |
+| [Sliding Window](https://medium.com/@timpark0807/leetcode-is-easy-sliding-window-c44c11cc33e1) | |
+| [Fast and Slow Pointers](https://medium.com/@timpark0807/leetcode-is-easy-two-pointers-90b9b0f2eb43) | |
+| [Prefix Sum](https://www.geeksforgeeks.org/prefix-sum-array-python-using-accumulate-function/) | | 
+| [Linked List In-place Reversal](https://www.youtube.com/watch?v=G0_I-ZF0S38) | | 
+| [BFS Graph](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/) | | 
+| [DFS Graph](https://www.geeksforgeeks.org/python-program-for-depth-first-search-or-dfs-for-a-graph/) | |
+| [Tree Traversals — BFS, DFS (in-order, pre-order, post-order): Implement Recursive and Iterative](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/) | |
+| [Backtracking](https://www.geeksforgeeks.org/backtracking-algorithm-in-python/) | |
 | Selections — Kth Smallest Elements (Sort, QuickSelect, Mediums of Mediums) — Implement all three ways | |
 | Permutations | | 
 | Subsets | |
-| BFS Graph | | 
-| DFS Graph | |
 | Dijkstra’s Algorithm - Just know the concept | | 
-| Tree Traversals — BFS, DFS (in-order, pre-order, post-order): Implement Recursive and Iterative | |
 | External Sort - Just know the concept | |
 | NP-Complete — Just know the concept | |
 | Topological Sort | |
@@ -102,7 +108,6 @@ Once you are comfortable with the data structures & algorithms above, do the fol
 - ### Linked Lists
     - [x] Description:
         - [x] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
-        - [ ] [Doubly-linked List](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
         - [x] [Article on implementing Linked Lists](https://medium.com/pythoneers/mastering-linked-lists-for-interview-preparations-885e9d09fc88)
     - [x] Learn to implement basic operations on a singly linked list
     
@@ -113,28 +118,16 @@ Once you are comfortable with the data structures & algorithms above, do the fol
 
 - ### Hashing
     - [x] [Hasmaps (video)](https://www.youtube.com/watch?v=RcZsTI5h0kg)
-    - [ ] [Hash Functions, Sets and Maps (video)](https://www.youtube.com/watch?v=iZyxNEBpqFY)
+    - [x] [Hash Functions, Sets and Maps (video)](https://www.youtube.com/watch?v=iZyxNEBpqFY)
 
 - ### Two Pointers
     - [x] [Two Pointers (video)](https://www.youtube.com/watch?v=syTs9_w-pwA)
     - [ ] [Another Two Pointers video](https://www.youtube.com/watch?v=-gjxg6Pln50)
     - [x] [Visual explantion of Two Pointers](https://www.youtube.com/watch?v=On03HWe2tZM)
  
-- ### Strings
-    - [ ] [Strings(video)](https://www.youtube.com/watch?v=7gWFRA0V0OE&list=PLUITAQK78D8PByrC3XDuF-elzSK7QWXO5&index=7)
-
-- ### Sliding Window
-    - [ ] [Article on different types of Sliding Window techniques](https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide)
-- ### Sorting Algorithms
-    - Merge Sort
-    - Quick Sort
-    - Insertion Sort
-    - Bubble Sort
 - ### This Playlist
     - [DS&A by Greg Hogg](https://www.youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R)
-- ### Recursion
-- ### Kadane's Algorithm (For arrays)
-
+  
 <!--- ### Week 2
 #### take resources from coding university and add here ------------------------------------
 # Solving more problems related to topics from Week 1
