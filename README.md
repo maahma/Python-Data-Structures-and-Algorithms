@@ -46,7 +46,7 @@ I used the following resources to form my study plan:
 
 | Data Structure | Status | 
 | -------------- | ------ | 
-| Dynamic Array  | | 
+| [Dynamic Array](https://www.geeksforgeeks.org/implementation-of-dynamic-array-in-python/)  | | 
 | Linked List    | |
 | Stack & Queue  | | 
 | Hash Tables    | | 
