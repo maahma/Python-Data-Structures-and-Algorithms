@@ -5,11 +5,11 @@ This is my study plan to practice data structures and algorithms using Python fo
 - **[🦋 Resources](#-resources)<br>**
 - **[🐝 Study Progress](#-study-progress)<br>**
 - **[🍓 Learning Materials](#-learning-materials)<br>**
-  - **[Week 1](#week-1)<br>**
+  - **[Week 1 Prep Work before Leetcoding](#week-1-prep-work-before-leetcoding)<br>**
   <!-- - **[Week 2](#week-2)<br>**
   - **[Week 3](#week-3)<br>** -->
 - **[✨ Practice Questions ✨](#-practice-questions-)<br>**
-  - **[For Week 1 Data Structures and Algorithms](#for-week-1-data-structures-and-algorithms)<br>**
+  - **[For Week 2 Data Structures and Algorithms](#for-week-2-data-structures-and-algorithms)<br>**
 
 ## 🦋 Resources
 I used the following resources to form my study plan:
@@ -30,7 +30,7 @@ Some good articles on how to leetcode:
 ## 🐝 Study Progress
 | Week | Dates | Leetcode Solved (Easy/Med/Hard) | Topics Covered | Mock Interviews | Notes | Hours spent | 
 | ---- | ----- | ------------------------------- | -------------- | --------------- | ----- | ----------- |
-| 1    | 03/02/25 - 09/02/25 | Learning how to implement data structures and algorithms from scratch | - | - | Learning patterns in LeetCode and understanding how to implement data structures and algorithms will make problem-solving easier. Revisit problems you've had trouble with and treat LeetCode like solving math problems—it’s all about practice. Stay consistent, and it’s okay if it takes longer than 4 weeks to go through all the questions  | - |
+| 1    | 03/02/25 - 09/02/25 | Some easys | Mostly arrays and hashmaps | 0 | Frustrated with leetcode. Not able to solve even Easy questions without looking at the solution. Have to change my study plan and learn how to implement data structures and algorithms from scratch. Also look at [leetcode patterns](https://blog.algomaster.io/p/15-leetcode-patterns) to make problem-solving easier. Will restart my progress table  | A LOT |
 | 2    | 10/02/25 - 16/02/25 | - | - | - | - | - |
 | 3    | 17/02/25 - 23/02/25 | - | - | - | - | - |
 | 4    | 24/02/25 - 02/03/25 | - | - | - | - | - |
@@ -41,7 +41,61 @@ Some good articles on how to leetcode:
 - I revisit problems I struggled with the next day to reinforce my learning.
 - [Advice from the master himself](https://www.youtube.com/watch?v=aHZW7TuY_yo)
 
-### Week 1
+
+### Week 1 Prep Work before Leetcoding
+- Learn how to implement the following data structures and perform operations on them. 
+- Resources for learning are mentioned below
+
+| Data Structure | Status | 
+| -------------- | ------ | 
+| Dynamic Array  | | 
+| Linked List    | |
+| Stack & Queue  | | 
+| Hash Tables    | | 
+| Binary Search Tree | |
+| Binary Heaps & Priority Queue | | 
+| Graphs         | | 
+| Trie           | | 
+
+| Algorithms | Status | 
+| ---------- | ------ |
+| Bit Manipulation & Numbers — difference btw Unsigned vs signed numbers | |
+| Mergesort  | |
+| Quicksort  | |
+| Heapsort   | |
+| Binary Search | |
+| Selections — Kth Smallest Elements (Sort, QuickSelect, Mediums of Mediums) — Implement all three ways | |
+| Permutations | | 
+| Subsets | |
+| BFS Graph | | 
+| DFS Graph | |
+| Dijkstra’s Algorithm - Just know the concept | | 
+| Tree Traversals — BFS, DFS (in-order, pre-order, post-order): Implement Recursive and Iterative | |
+| External Sort - Just know the concept | |
+| NP-Complete — Just know the concept | |
+| Topological Sort | |
+| Detect cycle in an undirected graph | |
+| Detect a cycle in a directed graph | |
+| Count connected components in a graph | | 
+| Find strongly connected components in a graph | | 
+
+Once you are comfortable with the data structures & algorithms above, do the following exercise multiple times (at least 2–3 times)
+
+| Exercises | Status | 
+| --------- | ------ |
+| Implement an ArrayList from scratch | |
+| Reverse a linked list | |
+| Implement a Stack & a Queue using Array | |
+| Implement a HashTable with simple Hashing functions | |
+| Implement a Graph using Adjacency List, and then write functions for BFS & DFS | |
+| Write the binary search algorithm both recursively and iteratively | |
+| Write the merge sort algorithm | |
+| Write the quicksort algorithm | |
+| Print binary tree using DFS (in-order, preorder and post order — all three of them) and BFS | |
+| Memorize time & space complexities for common algorithms. Look at [this list](https://www.bigocheatsheet.com/) | |
+| Implement a trie | |
+| Learn these important [bit manipulation tricks](https://www.geeksforgeeks.org/bit-tricks-competitive-programming/) | |
+
 - ### Arrays
     - [x] [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
     - [x] [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
@@ -71,7 +125,6 @@ Some good articles on how to leetcode:
 - ### Strings
     - [ ] [Strings(video)](https://www.youtube.com/watch?v=7gWFRA0V0OE&list=PLUITAQK78D8PByrC3XDuF-elzSK7QWXO5&index=7)
 
-- ### Binary Search
 - ### Sliding Window
     - [ ] [Article on different types of Sliding Window techniques](https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide)
 - ### Sorting Algorithms
@@ -79,6 +132,8 @@ Some good articles on how to leetcode:
     - Quick Sort
     - Insertion Sort
     - Bubble Sort
+- ### This Playlist
+    - [DS&A by Greg Hogg](https://www.youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R)
 - ### Recursion
 - ### Kadane's Algorithm (For arrays)
 
@@ -107,7 +162,7 @@ Some good articles on how to leetcode:
 --->
 
 ## ✨ Practice Questions ✨
-### For Week 1 Data Structures and Algorithms
+### For Week 2 Data Structures and Algorithms
 | #  | Problem | Difficulty | Time to Solve | Topic | Status |
 |----|------------- | ---------- | -------------- | ----- | ------ |
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Array | ✔ |
@@ -146,7 +201,7 @@ Some good articles on how to leetcode:
 | 34 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | 45 mins | Array | ❌ |
 
 
-#### Total for Week 1
+#### Total for Week 2
 | Topics | Easy | Medium | Hard |
 | ------ | ---- | ------ | ---- |
 | Arrays | 4 | 5 | 1 |
