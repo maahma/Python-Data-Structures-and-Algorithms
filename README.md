@@ -17,6 +17,7 @@ I used the following resources to form my study plan:
 - [Study Plan for the week by Ramiro Richmand](https://github.com/ramirorichmand/RR10_MyStudyPlan/tree/main)
 - [NeetCode 150 Practice Questions](https://neetcode.io/practice?tab=neetcode150)
 - [NeetCode 150 Roadmap](https://neetcode.io/roadmap)
+- [Prep Work before Leetcoding](https://medium.com/@alimirio/before-you-start-solving-problems-on-leetcode-prep-work-9d65fc964c6f)
 - [Elements of Programming Interviews in Python by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash](https://elementsofprogramminginterviews.com)
 - [Articles to understand algorithms](https://www.hellointerview.com/learn/code)
 - [Articles on Leetcode Patterns](https://medium.com/leetcode-patterns)
@@ -24,13 +25,10 @@ I used the following resources to form my study plan:
 - [List of questions for each Leetcode pattern](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions?tab=readme-ov-file)
 - [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns)
 
-Some good articles on how to leetcode:
-- [For those who are beginners - Leetcode prep in 2 months](https://www.teamblind.com/post/for-those-who-are-beginners---leetcode-prep-in-2-months-V2nXT0Az?utm_source=share&utm_medium=normal&from=share_link)
-
 ## 🐝 Study Progress
 | Week | Dates | Leetcode Solved (Easy/Med/Hard) | Topics Covered | Mock Interviews | Notes | Hours spent | 
 | ---- | ----- | ------------------------------- | -------------- | --------------- | ----- | ----------- |
-| 1    | 03/02/25 - 09/02/25 | Some easys | Mostly arrays and hashmaps | 0 | Frustrated with leetcode. Not able to solve even Easy questions without looking at the solution. Have to change my study plan and learn how to implement data structures and algorithms from scratch. Also look at [leetcode patterns](https://blog.algomaster.io/p/15-leetcode-patterns) to make problem-solving easier. Will restart my progress table  | A LOT |
+| 1    | 03/02/25 - 09/02/25 | Some easys | Mostly arrays and hashmaps | 0 | Frustrated with leetcode. Not able to solve even Easy questions without looking at the solution. Have to change my study plan and learn how to implement data structures and algorithms from scratch before doing leetcode questions. Also look at [leetcode patterns](https://blog.algomaster.io/p/15-leetcode-patterns) to make problem-solving easier. Will restart my progress table  | A LOT |
 | 2    | 10/02/25 - 16/02/25 | - | - | - | - | - |
 | 3    | 17/02/25 - 23/02/25 | - | - | - | - | - |
 | 4    | 24/02/25 - 02/03/25 | - | - | - | - | - |
