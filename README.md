@@ -9,7 +9,7 @@ This is my study plan to practice data structures and algorithms using Python fo
   <!-- - **[Week 2](#week-2)<br>**
   - **[Week 3](#week-3)<br>** -->
 - **[✨ Practice Questions ✨](#-practice-questions-)<br>**
-  - **[For Week 3 Data Structures and Algorithms](#for-week-3-data-structures-and-algorithms)<br>**
+  - **[Week 3](#week-3)<br>**
 
 ## 🦋 Resources
 I used the following resources to form my study plan:
@@ -155,7 +155,7 @@ Once you are comfortable with the data structures & algorithms above, do the fol
 --->
 
 ## ✨ Practice Questions ✨
-### For Week 3 Data Structures and Algorithms
+### Week 3
 | #  | Problem | Difficulty | Time to Solve | Topic | Status |
 |----|------------- | ---------- | -------------- | ----- | ------ |
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Array | ✔ |
