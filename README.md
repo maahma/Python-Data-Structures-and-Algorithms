@@ -47,7 +47,7 @@ I used the following resources to form my study plan:
 | Data Structure | Status | 
 | -------------- | ------ | 
 | [Dynamic Array](https://www.geeksforgeeks.org/implementation-of-dynamic-array-in-python/)  | ✔ | 
-| [Linked List](https://www.geeksforgeeks.org/singly-linked-list-in-python/)    | |
+| [Linked List](https://www.geeksforgeeks.org/python-linked-list/)    | |
 | Stack & Queue  | | 
 | [Hash Tables](https://www.geeksforgeeks.org/implementation-of-hash-table-in-python-using-separate-chaining/)    | | 
 | [Binary Search Tree](https://www.geeksforgeeks.org/binary-search-tree-in-python/) | |
