@@ -29,7 +29,7 @@ I used the following resources to form my study plan:
 | Week | Dates | Leetcode Solved (Easy/Med/Hard) | Topics Covered | Mock Interviews | Notes | Hours spent | 
 | ---- | ----- | ------------------------------- | -------------- | --------------- | ----- | ----------- |
 | 1    | 03/02/25 - 09/02/25 | Some easys | Mostly arrays and hashmaps | 0 | Frustrated with leetcode. Not able to solve even Easy questions without looking at the solution. Have to change my study plan and learn how to implement data structures and algorithms from scratch before doing leetcode questions. Also look at [leetcode patterns](https://blog.algomaster.io/p/15-leetcode-patterns) to make problem-solving easier. Will restart my progress table  | A LOT |
-| 2    | 10/02/25 - 16/02/25 | - | - | - | - | - |
+| 2    | 10/02/25 - 16/02/25 | Doing prep work(see below) before starting leetcode | - | - | - | - |
 | 3    | 17/02/25 - 23/02/25 | - | - | - | - | - |
 | 4    | 24/02/25 - 02/03/25 | - | - | - | - | - |
 
@@ -47,7 +47,7 @@ I used the following resources to form my study plan:
 | Data Structure | Status | 
 | -------------- | ------ | 
 | [Dynamic Array](https://www.geeksforgeeks.org/implementation-of-dynamic-array-in-python/)  | ✔ | 
-| [Linked List](https://www.geeksforgeeks.org/python-linked-list/)    | |
+| [Linked List](https://www.geeksforgeeks.org/python-linked-list/)    | ✔ |
 | Stack & Queue  | | 
 | [Hash Tables](https://www.geeksforgeeks.org/implementation-of-hash-table-in-python-using-separate-chaining/)    | | 
 | [Binary Search Tree](https://www.geeksforgeeks.org/binary-search-tree-in-python/) | |
