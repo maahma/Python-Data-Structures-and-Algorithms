@@ -5,11 +5,11 @@ This is my study plan to practice data structures and algorithms using Python fo
 - **[🦋 Resources](#-resources)<br>**
 - **[🐝 Study Progress](#-study-progress)<br>**
 - **[🍓 Learning Materials](#-learning-materials)<br>**
-  - **[Week 1 Prep Work before Leetcoding](#week-1-prep-work-before-leetcoding)<br>**
+  - **[Week 2 Prep Work before Leetcoding](#week-2-prep-work-before-leetcoding)<br>**
   <!-- - **[Week 2](#week-2)<br>**
   - **[Week 3](#week-3)<br>** -->
 - **[✨ Practice Questions ✨](#-practice-questions-)<br>**
-  - **[For Week 2 Data Structures and Algorithms](#for-week-2-data-structures-and-algorithms)<br>**
+  - **[For Week 3 Data Structures and Algorithms](#for-week-3-data-structures-and-algorithms)<br>**
 
 ## 🦋 Resources
 I used the following resources to form my study plan:
@@ -40,7 +40,7 @@ I used the following resources to form my study plan:
 - [Advice from the master himself](https://www.youtube.com/watch?v=aHZW7TuY_yo)
 
 
-### Week 1 Prep Work before Leetcoding
+### Week 2 Prep Work before Leetcoding
 - Learn how to implement the following data structures and perform operations on them. 
 - Resources for learning are mentioned below
 
@@ -130,7 +130,7 @@ Once you are comfortable with the data structures & algorithms above, do the fol
 - ### This Playlist
     - [DS&A by Greg Hogg](https://www.youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R)
   
-<!--- ### Week 2
+<!--- ### Week 
 #### take resources from coding university and add here ------------------------------------
 # Solving more problems related to topics from Week 1
 
@@ -155,7 +155,7 @@ Once you are comfortable with the data structures & algorithms above, do the fol
 --->
 
 ## ✨ Practice Questions ✨
-### For Week 2 Data Structures and Algorithms
+### For Week 3 Data Structures and Algorithms
 | #  | Problem | Difficulty | Time to Solve | Topic | Status |
 |----|------------- | ---------- | -------------- | ----- | ------ |
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Array | ✔ |
