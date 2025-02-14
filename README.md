@@ -5,11 +5,11 @@ This is my study plan to practice data structures and algorithms using Python fo
 - **[🦋 Resources](#-resources)<br>**
 - **[🐝 Study Progress](#-study-progress)<br>**
 - **[🍓 Learning Materials](#-learning-materials)<br>**
-  - **[Week 1 Prep Work before Leetcoding](#week-1-prep-work-before-leetcoding)<br>**
+  - **[Week 2 Prep Work before Leetcoding](#week-2-prep-work-before-leetcoding)<br>**
   <!-- - **[Week 2](#week-2)<br>**
   - **[Week 3](#week-3)<br>** -->
 - **[✨ Practice Questions ✨](#-practice-questions-)<br>**
-  - **[For Week 2 Data Structures and Algorithms](#for-week-2-data-structures-and-algorithms)<br>**
+  - **[Week 3](#week-3)<br>**
 
 ## 🦋 Resources
 I used the following resources to form my study plan:
@@ -29,7 +29,7 @@ I used the following resources to form my study plan:
 | Week | Dates | Leetcode Solved (Easy/Med/Hard) | Topics Covered | Mock Interviews | Notes | Hours spent | 
 | ---- | ----- | ------------------------------- | -------------- | --------------- | ----- | ----------- |
 | 1    | 03/02/25 - 09/02/25 | Some easys | Mostly arrays and hashmaps | 0 | Frustrated with leetcode. Not able to solve even Easy questions without looking at the solution. Have to change my study plan and learn how to implement data structures and algorithms from scratch before doing leetcode questions. Also look at [leetcode patterns](https://blog.algomaster.io/p/15-leetcode-patterns) to make problem-solving easier. Will restart my progress table  | A LOT |
-| 2    | 10/02/25 - 16/02/25 | - | - | - | - | - |
+| 2    | 10/02/25 - 16/02/25 | Doing prep work(see below) before starting leetcode | - | - | - | - |
 | 3    | 17/02/25 - 23/02/25 | - | - | - | - | - |
 | 4    | 24/02/25 - 02/03/25 | - | - | - | - | - |
 
@@ -40,15 +40,17 @@ I used the following resources to form my study plan:
 - [Advice from the master himself](https://www.youtube.com/watch?v=aHZW7TuY_yo)
 
 
-### Week 1 Prep Work before Leetcoding
+### Week 2 Prep Work before Leetcoding
 - Learn how to implement the following data structures and perform operations on them. 
 - Resources for learning are mentioned below
 
 | Data Structure | Status | 
 | -------------- | ------ | 
 | [Dynamic Array](https://www.geeksforgeeks.org/implementation-of-dynamic-array-in-python/)  | ✔ | 
-| [Linked List](https://www.geeksforgeeks.org/python-linked-list/)    | |
-| Stack & Queue  | | 
+| [Linked List](https://www.geeksforgeeks.org/python-linked-list/)    | ✔ |
+| [Stack using array](https://www.geeksforgeeks.org/implement-stack-using-array/) | |
+| [Stack using Queue](https://www.youtube.com/watch?v=rW4vm0-DLYc&pp=ygUYc3RhY2sgdXNpbmcgcXVldWUgcHl0aG9u), [deque](https://www.geeksforgeeks.org/deque-in-python/)| |
+| [Queue using Stack](https://www.youtube.com/watch?v=eanwa3ht3YQ)  | | 
 | [Hash Tables](https://www.geeksforgeeks.org/implementation-of-hash-table-in-python-using-separate-chaining/)    | | 
 | [Binary Search Tree](https://www.geeksforgeeks.org/binary-search-tree-in-python/) | |
 | [Binary Heaps](https://www.geeksforgeeks.org/binary-heap-in-python/) | |
@@ -128,7 +130,7 @@ Once you are comfortable with the data structures & algorithms above, do the fol
 - ### This Playlist
     - [DS&A by Greg Hogg](https://www.youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R)
   
-<!--- ### Week 2
+<!--- ### Week 
 #### take resources from coding university and add here ------------------------------------
 # Solving more problems related to topics from Week 1
 
@@ -153,7 +155,7 @@ Once you are comfortable with the data structures & algorithms above, do the fol
 --->
 
 ## ✨ Practice Questions ✨
-### For Week 2 Data Structures and Algorithms
+### Week 3
 | #  | Problem | Difficulty | Time to Solve | Topic | Status |
 |----|------------- | ---------- | -------------- | ----- | ------ |
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Array | ✔ |
