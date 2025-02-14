@@ -48,9 +48,9 @@ I used the following resources to form my study plan:
 | -------------- | ------ | 
 | [Dynamic Array](https://www.geeksforgeeks.org/implementation-of-dynamic-array-in-python/)  | ✔ | 
 | [Linked List](https://www.geeksforgeeks.org/python-linked-list/)    | ✔ |
-| [Stack using array](https://www.geeksforgeeks.org/implement-stack-using-array/) | |
-| [Stack using Queue](https://www.youtube.com/watch?v=rW4vm0-DLYc&pp=ygUYc3RhY2sgdXNpbmcgcXVldWUgcHl0aG9u), [deque](https://www.geeksforgeeks.org/deque-in-python/)| |
-| [Queue using Stack](https://www.youtube.com/watch?v=eanwa3ht3YQ)  | | 
+| [Stack using array](https://www.geeksforgeeks.org/implement-stack-using-array/) | ✔ |
+| [Stack using Queue](https://www.youtube.com/watch?v=rW4vm0-DLYc&pp=ygUYc3RhY2sgdXNpbmcgcXVldWUgcHl0aG9u), [deque](https://www.geeksforgeeks.org/deque-in-python/)| ✔ |
+| [Queue using Stack](https://www.youtube.com/watch?v=eanwa3ht3YQ)  | ✔ | 
 | [Hash Tables](https://www.geeksforgeeks.org/implementation-of-hash-table-in-python-using-separate-chaining/)    | | 
 | [Binary Search Tree](https://www.geeksforgeeks.org/binary-search-tree-in-python/) | |
 | [Binary Heaps](https://www.geeksforgeeks.org/binary-heap-in-python/) | |
