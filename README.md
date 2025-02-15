@@ -41,8 +41,7 @@ I used the following resources to form my study plan:
 
 
 ### Week 2 Prep Work before Leetcoding
-- Learn how to implement the following data structures and perform operations on them. 
-- Resources for learning are mentioned below
+Learn how to implement the following data structures and perform operations on them. 
 
 | Data Structure | Status | 
 | -------------- | ------ | 
@@ -52,7 +51,7 @@ I used the following resources to form my study plan:
 | [Stack using Queue](https://www.youtube.com/watch?v=rW4vm0-DLYc&pp=ygUYc3RhY2sgdXNpbmcgcXVldWUgcHl0aG9u), [deque](https://www.geeksforgeeks.org/deque-in-python/)| ✔ |
 | [Queue using Stack](https://www.youtube.com/watch?v=eanwa3ht3YQ)  | ✔ | 
 | [Hash Tables](https://www.geeksforgeeks.org/implementation-of-hash-table-in-python-using-separate-chaining/)    | | 
-| [Binary Search Tree](https://www.youtube.com/watch?v=lFq5mYUWEBk) | |
+| [Binary Search Tree](https://www.youtube.com/watch?v=DlWxqU3LLpY) | |
 | [Binary Heaps](https://www.geeksforgeeks.org/binary-heap-in-python/) | |
 | [Priority Queue](https://www.geeksforgeeks.org/priority-queue-in-python/) | | 
 | Graphs         | | 
@@ -127,8 +126,10 @@ Once you are comfortable with the data structures & algorithms above, do the fol
     - [ ] [Another Two Pointers video](https://www.youtube.com/watch?v=-gjxg6Pln50)
     - [x] [Visual explantion of Two Pointers](https://www.youtube.com/watch?v=On03HWe2tZM)
  
-- ### This Playlist
-    - [DS&A by Greg Hogg](https://www.youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R)
+- ### Binary Search Tree
+    - [x] [Breadth First Search](https://www.youtube.com/watch?v=HZ5YTanv5QE&t=2s)
+    - [x] [Depth First Search - In-order, Pre-order Post-order](https://www.youtube.com/watch?v=b_NjndniOqY)
+ 
   
 <!--- ### Week 
 #### take resources from coding university and add here ------------------------------------
