@@ -129,7 +129,11 @@ Once you are comfortable with the data structures & algorithms above, do the fol
 - ### Binary Search Tree
     - [x] [Breadth First Search](https://www.youtube.com/watch?v=HZ5YTanv5QE&t=2s)
     - [x] [Depth First Search - In-order, Pre-order Post-order](https://www.youtube.com/watch?v=b_NjndniOqY)
- 
+
+- ### Graphs
+    - [x] [Intro to Graphs](https://www.youtube.com/watch?v=-VgHk7UMPP4&t=60s)
+    - [x] [Understanding adjacency lists](https://m.youtube.com/watch?v=3AtEzK4sowk&t=5s)
+    - [ ] [5 most common graph algorithms](https://www.youtube.com/watch?v=utDu3Q7Flrw)
   
 <!--- ### Week 
 #### take resources from coding university and add here ------------------------------------
