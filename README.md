@@ -43,12 +43,12 @@ I used the following resources to form my study plan:
 ### Week 2 Prep Work before Leetcoding
 Learn how to implement the following data structures and perform operations on them. 
 
-| Data Structure | Status | 
-| -------------- | ------ | 
-| [Dynamic Array](https://www.geeksforgeeks.org/implementation-of-dynamic-array-in-python/)  | ✔ | 
-| [Linked List](https://www.geeksforgeeks.org/python-linked-list/)    | ✔ |
+| Data Structure | Status |
+| -------------- | ------ |
+| [Dynamic Array](https://www.geeksforgeeks.org/implementation-of-dynamic-array-in-python/)  | [✔](https://github.com/maahma/Python-Data-Structures-and-Algorithms/blob/main/Implementation/data-structures/Dynamic-Arrays.ipynb) | 
+| [Linked List](https://www.geeksforgeeks.org/python-linked-list/)    | [✔](https://github.com/maahma/Python-Data-Structures-and-Algorithms/blob/main/Implementation/data-structures/Linked_List.ipynb) |
 | [Stack using array](https://www.geeksforgeeks.org/implement-stack-using-array/) | ✔ |
-| [Stack using Queue](https://www.youtube.com/watch?v=rW4vm0-DLYc&pp=ygUYc3RhY2sgdXNpbmcgcXVldWUgcHl0aG9u), [deque](https://www.geeksforgeeks.org/deque-in-python/)| ✔ |
+| [Stack using Queue](https://www.youtube.com/watch?v=rW4vm0-DLYc&pp=ygUYc3RhY2sgdXNpbmcgcXVldWUgcHl0aG9u), [deque](https://www.geeksforgeeks.org/deque-in-python/)| [✔](https://github.com/maahma/Python-Data-Structures-and-Algorithms/blob/main/Implementation/data-structures/Stacks.ipynb) |
 | [Queue using Stack](https://www.youtube.com/watch?v=eanwa3ht3YQ)  | ✔ | 
 | [Hash Tables](https://www.geeksforgeeks.org/implementation-of-hash-table-in-python-using-separate-chaining/)    | | 
 | [Binary Search Tree](https://www.youtube.com/watch?v=DlWxqU3LLpY) | |
