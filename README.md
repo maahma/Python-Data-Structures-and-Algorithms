@@ -133,8 +133,9 @@ Once you are comfortable with the data structures & algorithms above, do the fol
 - ### Graphs
     - [x] [Intro to Graphs](https://www.youtube.com/watch?v=-VgHk7UMPP4&t=60s)
     - [x] [Understanding adjacency lists](https://m.youtube.com/watch?v=3AtEzK4sowk&t=5s)
+    - [x] [Graph Traversals - BFS and DFS](https://www.youtube.com/watch?v=pcKY4hjDrxk&t=1s)
     - [ ] [5 most common graph algorithms](https://www.youtube.com/watch?v=utDu3Q7Flrw)
-  
+
 <!--- ### Week 
 #### take resources from coding university and add here ------------------------------------
 # Solving more problems related to topics from Week 1
