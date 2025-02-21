@@ -3,13 +3,13 @@ This is my study plan to practice data structures and algorithms using Python fo
 
 ### Table of Contents
 - **[🦋 Resources](#-resources)<br>**
-- **[🐝 Study Progress](#-study-progress)<br>**
+<!-- - **[🐝 Study Progress](#-study-progress)<br>** -->
 - **[🍓 Learning Materials](#-learning-materials)<br>**
-  - **[Week 2 Prep Work before Leetcoding](#week-2-prep-work-before-leetcoding)<br>**
+  - **[Prep Work before Leetcoding](#prep-work-before-leetcoding)<br>**
   <!-- - **[Week 2](#week-2)<br>**
   - **[Week 3](#week-3)<br>** -->
 - **[✨ Practice Questions ✨](#-practice-questions-)<br>**
-  - **[Week 3](#week-3)<br>**
+  - **[Set 1](#set-1)<br>**
 
 ## 🦋 Resources
 I used the following resources to form my study plan:
@@ -25,13 +25,13 @@ I used the following resources to form my study plan:
 - [List of questions for each Leetcode pattern](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions?tab=readme-ov-file)
 - [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns)
 
-## 🐝 Study Progress
+<!-- ## 🐝 Study Progress
 | Week | Dates | Leetcode Solved (Easy/Med/Hard) | Topics Covered | Mock Interviews | Notes | Hours spent | 
 | ---- | ----- | ------------------------------- | -------------- | --------------- | ----- | ----------- |
 | 1    | 03/02/25 - 09/02/25 | Some easys | Mostly arrays and hashmaps | 0 | Frustrated with leetcode. Not able to solve even Easy questions without looking at the solution. Have to change my study plan and learn how to implement data structures and algorithms from scratch before doing leetcode questions. Also look at [leetcode patterns](https://blog.algomaster.io/p/15-leetcode-patterns) to make problem-solving easier. Will restart my progress table  | A LOT |
 | 2    | 10/02/25 - 16/02/25 | Doing prep work(see below) before starting leetcode | - | - | - | - |
 | 3    | 17/02/25 - 23/02/25 | - | - | - | - | - |
-| 4    | 24/02/25 - 02/03/25 | - | - | - | - | - |
+| 4    | 24/02/25 - 02/03/25 | - | - | - | - | - | -->
 
 ## 🍓 Learning Materials
 - I study learning materials on weekends to prepare for solving problems during the weekdays.
@@ -40,7 +40,7 @@ I used the following resources to form my study plan:
 - [Advice from the master himself](https://www.youtube.com/watch?v=aHZW7TuY_yo)
 
 
-### Week 2 Prep Work before Leetcoding
+### Prep Work before Leetcoding
 Learn how to implement the following data structures and perform operations on them. 
 
 | Data Structure | Status |
@@ -162,7 +162,7 @@ Once you are comfortable with the data structures & algorithms above, do the fol
 --->
 
 ## ✨ Practice Questions ✨
-### Week 3
+### Set 1
 | #  | Problem | Difficulty | Time to Solve | Topic | Status |
 |----|------------- | ---------- | -------------- | ----- | ------ |
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 10 mins | Array | ✔ |
