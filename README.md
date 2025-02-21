@@ -129,6 +129,7 @@ Once you are comfortable with the data structures & algorithms above, do the fol
 - ### Binary Search Tree
     - [x] [Breadth First Search](https://www.youtube.com/watch?v=HZ5YTanv5QE&t=2s)
     - [x] [Depth First Search - In-order, Pre-order Post-order](https://www.youtube.com/watch?v=b_NjndniOqY)
+    - [ ] [Using Recursion to solve BST Questions](https://www.youtube.com/watch?v=s2Yyk3qdy3o&t=10s)
 
 - ### Graphs
     - [x] [Intro to Graphs](https://www.youtube.com/watch?v=-VgHk7UMPP4&t=60s)
