@@ -137,6 +137,10 @@ Once you are comfortable with the data structures & algorithms above, do the fol
     - [x] [Graph Traversals - BFS and DFS](https://www.youtube.com/watch?v=pcKY4hjDrxk&t=1s)
     - [ ] [5 most common graph algorithms](https://www.youtube.com/watch?v=utDu3Q7Flrw)
 
+- ### Merge Sort
+    - [ ] [How to merge lists](https://www.youtube.com/watch?v=6pV2IF0fgKY)
+    - [ ] [Merge Sort Algorithm](https://www.youtube.com/watch?v=mB5HXBb_HY8) 
+
 <!--- ### Week 
 #### take resources from coding university and add here ------------------------------------
 # Solving more problems related to topics from Week 1
